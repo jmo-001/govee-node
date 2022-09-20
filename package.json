@@ -1,0 +1,25 @@
+{
+  "name": "govee-node",
+  "version": "1.0.0",
+  "description": "TS/Node library for communicating with Govee LED lights connected to your local network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmo-001/govee-node.git"
+  },
+  "keywords": [
+    "govee",
+    "led",
+    "node",
+    "typescript"
+  ],
+  "author": "jmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmo-001/govee-node/issues"
+  },
+  "homepage": "https://github.com/jmo-001/govee-node#readme"
+}
